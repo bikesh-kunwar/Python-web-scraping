@@ -1,2 +1,2 @@
 # Python-web-scraping
-It is a simple python web scraping repo where BeautifulSoup Library has been used.
+This is a basic Python web scraping repository that utilizes the BeautifulSoup library.
